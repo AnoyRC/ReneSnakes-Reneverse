@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{354CCC3E-C8AE-C4B9-F784-5E991CA61E7D}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Snake.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MainMenuGUI.cs" />
+      <File FileName="Assets/Chartboost/Editor/CBPostProcess.cs" />
+      <File FileName="Assets/Scripts/ColorTemplate.cs" />
+      <File FileName="Assets/Scripts/Snake.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Stretchy Road" expanded="True" selected="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6ef796fc-7b36-4135-9b6d-907be79ff323" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
